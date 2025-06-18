@@ -1,5 +1,9 @@
 # Dio Lab - Desafio Agência Bancária
 
-## Sistema simples para um usuário somente
+## Sistema para cadastro de usuarios e contas correntes
 
-Operações básicas de saque, depósito e extrato.
+Projeto atualizado com novas funcionalidades:
+
+Cadastro de clientes
+Cadastro de contas correntes
+Listagem de contas correntes
